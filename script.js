@@ -85,3 +85,6 @@ window.__genspark_locale = "en-US";
 window.__genspark_token = "To/BnjzloZ3UfQdcSaYfDquo/FZO+bsMFg+NRjnDVnuXto4cxmu4Z95YMkhC6mUDENAVTy9yefrJ+DUwj1z1bK4sQMs5vrJiw5u1Ljj158aug7dGfYy/nmjXUbA+6Rg3rRbefvcoDz5ZCFZcG2OA9thH3Ke3Czs+JM7hqDEalkf0LeVA0KGOK6RWtoKWqO06WkaeZ5waPJthJ2tY1JJZJIXh/Kfz3/87Y3lxMioCLpgpXkYdb3d3WIoJUbdVwu/eYH36xoKtjVeaxulLMtsn5cKB6WBUK6S2iIJnf7cRNCThm8e0LmIVgL5JIReEI6TVA4xMskDmdP6x98J05QdT0+eNp+eeApPcIEH9/8NvWEEJ5CoM13QJIAOd3RhV9Z03b8lBj3qDLCMHfcj4On3l2Vt5ILbYyoWL2cyepnTrObZPw/Z6CrBgL/3olsISaYnqurz7iEMg1V8Ovmvh5GjZ+Yjxwj0HH6D8yMhWTeEr9f+Do72R8fVs7JNx/J0Qc5obcib0BkG2trvg5lVhWEkm+dm6IhMEV1QSWek4O8wW74s=";
 
 // External script: https://www.genspark.ai/html_badge.js
+
+
+import { SpeedInsights } from "@vercel/speed-insights/next"
